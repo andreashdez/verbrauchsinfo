@@ -1,0 +1,10 @@
+[project]
+name = "verbrauchsinfo"
+version = "0.1.0"
+description = "Tool to view consumption data in a chart"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "matplotlib>=3.10.8",
+    "polars>=1.38.1",
+]
