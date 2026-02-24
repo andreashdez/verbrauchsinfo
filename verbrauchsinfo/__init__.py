@@ -1,0 +1,1 @@
+"""Verbrauchsinfo package."""
